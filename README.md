@@ -1,2 +1,5 @@
 # pictures
-Repository for storage a pictures for other repositories.
+
+## For what?
+
+- I just need some pictures storage 
